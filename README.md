@@ -52,7 +52,7 @@ Each planner pops the cheapest cell from the priority queue, skips it if it has 
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/<your-username>/PathForge.git
+git clone https://github.com/trikzen/PathForge.git
 cd PathForge
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\Activate.ps1
@@ -120,4 +120,4 @@ The next stage rebuilds PathForge as a C++ engine. Robot planners often need to 
 
 ## Author
 
-**Ethan Leong**: [GitHub](https://github.com/<your-username>) · [LinkedIn](https://www.linkedin.com/in/<your-profile>)
+**Ethan Leong**: [GitHub](https://github.com/trikzen) 
